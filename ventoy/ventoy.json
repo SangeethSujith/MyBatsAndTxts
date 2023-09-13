@@ -1,0 +1,12 @@
+{
+    "theme":{
+        "file":[
+            "/ventoy/CyberEXS/theme.txt",
+            "/ventoy/minegrub-theme/minegrub/theme.txt",
+            "/ventoy/crt-amber-theme/theme.txt",
+            "/ventoy/ROG_GRUB_Theme/ROG/theme.txt",
+            "/ventoy/Arcade/theme.txt"
+        ],
+        "gfxmode": "max"
+    }
+}
